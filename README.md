@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="./assets/img/icon.ico" alt="Caniche TXT Aligner" width="256">
+  <img src="./assets/img/icon.png" alt="Caniche TXT Aligner" width="256">
 </div>
 
 <h1 align="center">Caniche TXT Aligner</h1>
 
 <div align="center">
-  Caniche TXT Aligner is a desktop application developed in Python with PyQt6 that allows you to edit and align text files in different languages. The application is designed to work with pairs of text files, facilitating line-by-line comparison and editing (ideal for translation).
+  Caniche TXT Aligner is a desktop application developed in Python with PyQt6 that allows you to edit and align text files in different languages. The application is designed to work with pairs of text files, facilitating line-by-line comparison and editing, making it ideal for translation tasks and content comparison.
 
 ⚠️ **NOTE**: This application is currently in BETA version (v0.1). Although the main functionality is stable, there may be some issues or limitations.
 </div>
